@@ -1,0 +1,6 @@
+{
+  "name": "Expensio - Travel Expense & HR Hub",
+  "description": "Android mobile travel expense reporting app with AI receipt OCR extraction and HR approval back-office.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
